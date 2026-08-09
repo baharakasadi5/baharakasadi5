@@ -114,3 +114,42 @@ I believe good software engineering is not only about writing code, but also abo
 GitHub (https://github.com/baharakasadi5/InvenShare_Mobile)
 baharakasadi5/InvenShare_Mobile
 Contribute to baharakasadi5/InvenShare_Mobile development by creating an account on GitHub.
+---
+
+🏗️ Engineering Focus
+
+I care about building software that is understandable, maintainable, testable, and ready to evolve.
+
+Architecture
+    ↓
+Clean separation of responsibilities
+    ↓
+Testable application logic
+    ↓
+Reliable data layer
+    ↓
+Automated quality checks
+    ↓
+Continuous improvement
+
+Core Practices
+
+- Clean Architecture
+- Separation of Concerns
+- Repository Pattern
+- State Management
+- Offline-first design
+- API integration
+- Automated testing
+- CI/CD
+- Secure configuration
+- Technical documentation
+
+---
+
+🌱 What I'm Working Toward
+
+My goal is to grow as a software engineer by building complete products, understanding the systems behind them, and continuously improving code quality, architecture, testing, and developer experience.
+
+---
+
