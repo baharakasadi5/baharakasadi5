@@ -135,9 +135,7 @@ I believe good software engineering is not only about writing code, but also abo
 
 ⭐️ Thanks for visiting my profile.
 
-GitHub (https://github.com/baharakasadi5/InvenShare_Mobile)
-baharakasadi5/InvenShare_Mobile
-Contribute to baharakasadi5/InvenShare_Mobile development by creating an account on GitHub.
+
 ---
 
 🏗️ Engineering Focus
