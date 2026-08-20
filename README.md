@@ -55,7 +55,33 @@ Engineering
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,cs,dotnet,js,supabase,postgres,git,github,vscode" />
 </p>
 ⭐️ Featured Projects
+---
 
+## 🚀 Featured Project
+
+### 📱 InvenShare
+
+A full-stack platform connecting inventors and investors.
+
+Built with:
+
+- Flutter
+- Dart
+- Supabase
+- AI Integration
+- Backend Services
+- Clean Architecture
+
+Features:
+
+- User authentication
+- Invention management
+- AI-powered analysis
+- Investor discovery
+- Cross-platform development
+
+🔗 Repository:
+https://github.com/baharakasadi5/invenshare
 My GitHub portfolio focuses on building complete software products rather than isolated coding exercises.
 
 📱 Inventor Hub
