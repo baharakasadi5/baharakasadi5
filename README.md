@@ -129,8 +129,11 @@ I believe good software engineering is not only about writing code, but also abo
 
 📫 Connect
 
-- GitHub: "@baharakasadi5" (https://github.com/baharakasadi5)
+🔗 LinkedIn:
+https://www.linkedin.com/in/baharak-asadian-44192842b/
 
+🔗 GitHub:
+https://github.com/baharakasadi5
 ---
 
 ⭐️ Thanks for visiting my profile.
