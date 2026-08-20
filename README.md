@@ -153,6 +153,3 @@ Core Practices
 My goal is to grow as a software engineer by building complete products, understanding the systems behind them, and continuously improving code quality, architecture, testing, and developer experience.
 
 ---
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=baharakasadi5&show_icons=true" />
