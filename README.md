@@ -82,15 +82,6 @@ Features:
 
 🔗 Repository:
 https://github.com/baharakasadi5/invenshare
-My GitHub portfolio focuses on building complete software products rather than isolated coding exercises.
-
-📱 Inventor Hub
-
-An offline-first Flutter application focused on managing inventions and inventor-related data.
-
-Focus: Flutter • Dart • Riverpod • Hive • Clean Architecture • Material 3 • Localization
-
-"View Repository →" (https://github.com/baharakasadi5/InvenShare_Mobile)
 
 ---
 
