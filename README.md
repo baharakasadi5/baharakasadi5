@@ -50,6 +50,14 @@ Engineering
 
 
 ## 🛠️ Tech Stack
+### Skills
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-purple?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,cs,dotnet,js,supabase,postgres,git,github,vscode" />
