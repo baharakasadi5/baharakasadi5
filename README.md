@@ -155,8 +155,4 @@ My goal is to grow as a software engineer by building complete products, underst
 ---
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=baharakasadi5&show_icons=true&theme=transparent" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=baharakasadi5&show_icons=true" />
