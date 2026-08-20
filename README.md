@@ -47,7 +47,7 @@ Engineering
 - CI/CD
 
 ---
----
+
 
 ## 🛠️ Tech Stack
 
