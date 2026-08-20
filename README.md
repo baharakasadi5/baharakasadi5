@@ -66,6 +66,27 @@ Engineering
 ---
 
 ## 🚀 Featured Project
+### 📱 InvenShare
+
+A full-stack platform connecting inventors and investors.
+
+Built with:
+- Flutter
+- Dart
+- Supabase
+- AI Integration
+- Backend Services
+- Clean Architecture
+
+Features:
+- Authentication
+- Invention Management
+- AI Analysis
+- Investor Discovery
+- Cross-platform Support
+
+🔗 Repository:
+https://github.com/baharakasadi5/invenshare
 
 ### 📱 InvenShare
 
