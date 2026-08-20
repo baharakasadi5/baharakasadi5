@@ -47,7 +47,13 @@ Engineering
 - CI/CD
 
 ---
+---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,cs,dotnet,js,supabase,postgres,git,github,vscode" />
+</p>
 ⭐️ Featured Projects
 
 My GitHub portfolio focuses on building complete software products rather than isolated coding exercises.
