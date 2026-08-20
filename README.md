@@ -1,3 +1,4 @@
+<img src="photo_2026-08000.jpg" width="100%" />
 👋 Hi, I'm Baharak Asadi
 
 Software Engineer | Flutter • Backend • AI
